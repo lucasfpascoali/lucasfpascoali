@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas F. Pascoali</h1>
+<h1 align="center">Hi there, I'm Lucas F. Pascoali</h1>
 <h3 align="center">Computer Science Student learning Programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfpascoali" alt="lucasfpascoali" /> </p>
 
