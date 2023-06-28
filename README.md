@@ -2,11 +2,9 @@
 <h3 align="center">A Student learning Web Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfpascoali" alt="lucasfpascoali" /> </p>
 
-- 🔭 I’m a Student
-- 🌱 I’m currently learning NodeJS
-- 💬 Future Computer technician
-- 📫 How to reach me: luccafpascoali@gmail.com
-
+- 🔭 I’m a Computer Science Student at Universidade Federal de Santa Catarina (UFSC)
+- 🌱 I’m currently learning C# and C++ (for programming marathons)
+- 👯 I’m looking to collaborate on interesting project that catch my eye
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
