@@ -4,16 +4,6 @@
 
 - 🔭 I’m a Computer Science Student at Universidade Federal de Santa Catarina (UFSC)
 - 🌱 I’m currently learning C# and C++ (for programming marathons)
-- 👯 I’m looking to collaborate on interesting project that catch my eye
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lucasfpascoali&show_icons=true" alt="maykbrito"/> 
-</p>
-
-
-
-
-
 
 
 <!--
