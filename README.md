@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfpascoali" alt="lucasfpascoali" /> </p>
 
 - 🔭 I’m a Computer Science Student at Universidade Federal de Santa Catarina (UFSC)
-- 🔭 I'm currently working with Javascript/Typescript, React and NextJS at REMA 
-- 🌱 I’m currently learning C# and C++ (for programming marathons)
+- 🔭 I'm currently working with Golang and Blockchain at LabSEC - UFSC
+- 🌱 I’m currently learning Cryptography and Functional Programming (Haskell...)
 
 <!--
 
